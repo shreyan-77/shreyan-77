@@ -70,7 +70,8 @@
 
 ###  Vascular Disease Detection using CNN
 > Deep learning-based medical image classification system.  
-🔹 Tech: TensorFlow, OpenCV, CNN  
+🔹 Tech: TensorFlow, OpenCV, CNN
+🔗 Repo: https://github.com/shreyan-77/retinal-vascular-disease-detection
 
 ---
 
